@@ -18,4 +18,4 @@ Cinema is a gamemode for Garry's Mod 13 which features synchronized video playba
 * [Facepunch Thread](http://www.facepunch.com/showthread.php?t=1237719)
 * [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=118824086)
 * [Official Website] (http://www.pixeltailgames.com/cinema)
-* This is a test edit to test the push system
+* This is a test edit to test the push system.
